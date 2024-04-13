@@ -1,1 +1,1 @@
-Mudar o csv para cyber_data.csv e mete-lo no diretório data
+Mudar o csv para cyber_data.csv e mete-lo num diretório data
